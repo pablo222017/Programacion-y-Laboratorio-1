@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1566659232 source:c:\users\alumno\desktop\repaso\repasosabado\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1567013980 source:g:\programacion\clonaciones github\ejercicios-en-clase\clase02\repasosabado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+
