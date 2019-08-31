@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1567260906 source:c:\users\alumno\desktop\programacion-y-laboratorio-1\repasosabado\repaso 02\clase02\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1567261042 c:\users\alumno\desktop\programacion-y-laboratorio-1\repasosabado\repaso 02\clase02\funciones.h
+
+1567260671 source:c:\users\alumno\desktop\programacion-y-laboratorio-1\repasosabado\repaso 02\clase02\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+

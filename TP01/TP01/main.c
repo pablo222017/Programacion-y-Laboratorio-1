@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+int sumar(int a,int b);
+int restar(int a,int b);
+int multiplicar(int a,int b);
+int dividir(int a,int b);
 int main()
 {
     do
@@ -22,7 +25,29 @@ int main()
             }
         }
     while(respuesta=='s');
-
-    printf("Hello world!\n");
     return 0;
+}
+int sumar(int a,int b)
+{
+    int resultado;
+    resultado=a+b;
+    return resultado;
+}
+int restar(int a,int b)
+{
+    int resultado;
+    resultado=a-b;
+    return resultado;
+}
+int multiplicar(int a,int b)
+{
+    int resultado;
+    resultado=a*b;
+    return resultado;
+}
+int dividir(int a,int b)
+{
+    int resultado;
+    resultado=a/b;
+    return resultado;
 }
