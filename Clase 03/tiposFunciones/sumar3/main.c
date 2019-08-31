@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+/*
 void sumarV3( void );
 
 int main()
@@ -16,8 +16,6 @@ void sumarV3(void){
     int num2;
     int resultado;
 
-
-
     printf("Ingrese un numero: ");
     scanf("%d", &num1);
 
@@ -27,9 +25,8 @@ void sumarV3(void){
     resultado = num1 + num2;
 
     printf("La suma es %d\n\n", resultado);
+}   */
 
 
-
-}
 
 
