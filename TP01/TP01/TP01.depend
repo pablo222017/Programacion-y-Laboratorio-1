@@ -1,8 +1,8 @@
 # depslib dependency file v1.0
-1567374430 source:g:\programacion\1er cuatrimestre\programacion-y-laboratorio-1\tp01\tp01\funciones.c
+1567469928 source:g:\programacion\1er cuatrimestre\programacion-y-laboratorio-1\tp01\tp01\funciones.c
 	<stdio.h>
 
-1567375142 source:g:\programacion\1er cuatrimestre\programacion-y-laboratorio-1\tp01\tp01\main.c
+1567562431 source:g:\programacion\1er cuatrimestre\programacion-y-laboratorio-1\tp01\tp01\main.c
 	<stdio.h>
 	<stdlib.h>
 	<conio.h>
